@@ -1,0 +1,993 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ELearningWebAppUsingMVCArchitecture.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ELearningWebAppUsingMVCArchitecture.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\LoginSignUp\\script.js",
+      "PackagePath": "staticwebassets\\LoginSignUp\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\LoginSignUp\\style.css",
+      "PackagePath": "staticwebassets\\LoginSignUp\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\images\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\about_2.jpg",
+      "PackagePath": "staticwebassets\\images\\about_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\about_3.jpg",
+      "PackagePath": "staticwebassets\\images\\about_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\blog_4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\blog_5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\blog_images_1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_images_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\blog_images_2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_images_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\blog_single.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\comment_1.jpg",
+      "PackagePath": "staticwebassets\\images\\comment_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\comment_2.jpg",
+      "PackagePath": "staticwebassets\\images\\comment_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\comment_3.jpg",
+      "PackagePath": "staticwebassets\\images\\comment_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\counter_background.jpg",
+      "PackagePath": "staticwebassets\\images\\counter_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_1.jpg",
+      "PackagePath": "staticwebassets\\images\\course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_2.jpg",
+      "PackagePath": "staticwebassets\\images\\course_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_3.jpg",
+      "PackagePath": "staticwebassets\\images\\course_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_4.jpg",
+      "PackagePath": "staticwebassets\\images\\course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_5.jpg",
+      "PackagePath": "staticwebassets\\images\\course_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_6.jpg",
+      "PackagePath": "staticwebassets\\images\\course_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_7.jpg",
+      "PackagePath": "staticwebassets\\images\\course_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_8.jpg",
+      "PackagePath": "staticwebassets\\images\\course_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_9.jpg",
+      "PackagePath": "staticwebassets\\images\\course_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\course_image.jpg",
+      "PackagePath": "staticwebassets\\images\\course_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\courses_background.jpg",
+      "PackagePath": "staticwebassets\\images\\courses_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\down.png",
+      "PackagePath": "staticwebassets\\images\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\event_1.jpg",
+      "PackagePath": "staticwebassets\\images\\event_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\event_2.jpg",
+      "PackagePath": "staticwebassets\\images\\event_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\event_3.jpg",
+      "PackagePath": "staticwebassets\\images\\event_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\footer_background.png",
+      "PackagePath": "staticwebassets\\images\\footer_background.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_1_large.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_1_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_2_large.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_2_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_3_large.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_3_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_4_large.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_4_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_5_large.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_5_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\gallery_6_large.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery_6_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\home_slider_1.jpg",
+      "PackagePath": "staticwebassets\\images\\home_slider_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\icon_1.png",
+      "PackagePath": "staticwebassets\\images\\icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\icon_2.png",
+      "PackagePath": "staticwebassets\\images\\icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\icon_3.png",
+      "PackagePath": "staticwebassets\\images\\icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\icon_4.png",
+      "PackagePath": "staticwebassets\\images\\icon_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\latest_1.jpg",
+      "PackagePath": "staticwebassets\\images\\latest_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\latest_2.jpg",
+      "PackagePath": "staticwebassets\\images\\latest_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\latest_3.jpg",
+      "PackagePath": "staticwebassets\\images\\latest_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\marker.png",
+      "PackagePath": "staticwebassets\\images\\marker.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\mobile_1.png",
+      "PackagePath": "staticwebassets\\images\\mobile_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\mobile_2.png",
+      "PackagePath": "staticwebassets\\images\\mobile_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\mov_bbb.mp4",
+      "PackagePath": "staticwebassets\\images\\mov_bbb.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\mov_bbb.ogg",
+      "PackagePath": "staticwebassets\\images\\mov_bbb.ogg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\news_1.jpg",
+      "PackagePath": "staticwebassets\\images\\news_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\newsletter.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\newsletter_background.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletter_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\partner_1.png",
+      "PackagePath": "staticwebassets\\images\\partner_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\partner_2.png",
+      "PackagePath": "staticwebassets\\images\\partner_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\partner_3.png",
+      "PackagePath": "staticwebassets\\images\\partner_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\partner_4.png",
+      "PackagePath": "staticwebassets\\images\\partner_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\partner_5.png",
+      "PackagePath": "staticwebassets\\images\\partner_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\partner_6.png",
+      "PackagePath": "staticwebassets\\images\\partner_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\play.png",
+      "PackagePath": "staticwebassets\\images\\play.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\play_big.png",
+      "PackagePath": "staticwebassets\\images\\play_big.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\teacher.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\team_1.jpg",
+      "PackagePath": "staticwebassets\\images\\team_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\team_2.jpg",
+      "PackagePath": "staticwebassets\\images\\team_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\team_3.jpg",
+      "PackagePath": "staticwebassets\\images\\team_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\team_4.jpg",
+      "PackagePath": "staticwebassets\\images\\team_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\team_background.jpg",
+      "PackagePath": "staticwebassets\\images\\team_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\video.jpg",
+      "PackagePath": "staticwebassets\\images\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\images\\video_play.png",
+      "PackagePath": "staticwebassets\\images\\video_play.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\js\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\blog.js",
+      "PackagePath": "staticwebassets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\blog_single.js",
+      "PackagePath": "staticwebassets\\js\\blog_single.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\course.js",
+      "PackagePath": "staticwebassets\\js\\course.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\courses.js",
+      "PackagePath": "staticwebassets\\js\\courses.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\colorbox.css",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\colorbox.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\images\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\images\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\images\\border.png",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\images\\border.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\images\\controls.png",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\images\\controls.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\images\\loading_background.png",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\images\\loading_background.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\images\\overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\colorbox\\jquery.colorbox-min.js",
+      "PackagePath": "staticwebassets\\plugins\\colorbox\\jquery.colorbox-min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\easing\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\easing\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\greensock\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\greensock\\TimelineMax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\TimelineMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\greensock\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\greensock\\animation.gsap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\animation.gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\masonry\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\masonry\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\plugins\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\parallax-js-master\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\parallax-js-master\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\parallax-js-master\\parallax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\parallax-js-master\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\scrollmagic\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\scrollmagic\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js",
+      "PackagePath": "staticwebassets\\plugins\\scrollmagic\\ScrollMagic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\video-js\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\video-js\\video-js.css",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\plugins\\video-js\\video.min.js",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\styles\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\about.css",
+      "PackagePath": "staticwebassets\\styles\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\about_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\about_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\blog.css",
+      "PackagePath": "staticwebassets\\styles\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\blog_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\blog_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\blog_single.css",
+      "PackagePath": "staticwebassets\\styles\\blog_single.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\blog_single_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\blog_single_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\bootstrap4\\OneNote Table Of Contents.onetoc2",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\OneNote Table Of Contents.onetoc2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\contact.css",
+      "PackagePath": "staticwebassets\\styles\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\course.css",
+      "PackagePath": "staticwebassets\\styles\\course.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\course_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\course_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\courses.css",
+      "PackagePath": "staticwebassets\\styles\\courses.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\courses_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\courses_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\styles\\main_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Documents\\Aarya\\ELearningWebsiteUsingDotNetCoreMVC\\ELearningWebAppUsingMVCArchitecture\\wwwroot\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\styles\\responsive.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ELearningWebAppUsingMVCArchitecture.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ELearningWebAppUsingMVCArchitecture.props",
+      "PackagePath": "build\\ELearningWebAppUsingMVCArchitecture.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ELearningWebAppUsingMVCArchitecture.props",
+      "PackagePath": "buildMultiTargeting\\ELearningWebAppUsingMVCArchitecture.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ELearningWebAppUsingMVCArchitecture.props",
+      "PackagePath": "buildTransitive\\ELearningWebAppUsingMVCArchitecture.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
